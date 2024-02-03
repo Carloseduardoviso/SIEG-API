@@ -10,3 +10,15 @@ C:\Users\Carlos Eduardo\source\repos\Adaptadores\Dominio\obj\Debug\net6.0\refint
 C:\Users\Carlos Eduardo\source\repos\Adaptadores\Dominio\obj\Debug\net6.0\Dominio.pdb
 C:\Users\Carlos Eduardo\source\repos\Adaptadores\Dominio\obj\Debug\net6.0\ref\Dominio.dll
 C:\Users\Carlos Eduardo\source\repos\Adaptadores\Dominio\obj\Debug\net6.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\Carlos Eduardo\Source\Repos\SIEG-API\Dominio\bin\Debug\net6.0\Dominio.deps.json
+C:\Users\Carlos Eduardo\Source\Repos\SIEG-API\Dominio\bin\Debug\net6.0\Dominio.dll
+C:\Users\Carlos Eduardo\Source\Repos\SIEG-API\Dominio\bin\Debug\net6.0\Dominio.pdb
+C:\Users\Carlos Eduardo\Source\Repos\SIEG-API\Dominio\obj\Debug\net6.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\Carlos Eduardo\Source\Repos\SIEG-API\Dominio\obj\Debug\net6.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Eduardo\Source\Repos\SIEG-API\Dominio\obj\Debug\net6.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\Carlos Eduardo\Source\Repos\SIEG-API\Dominio\obj\Debug\net6.0\Dominio.AssemblyInfo.cs
+C:\Users\Carlos Eduardo\Source\Repos\SIEG-API\Dominio\obj\Debug\net6.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Eduardo\Source\Repos\SIEG-API\Dominio\obj\Debug\net6.0\Dominio.dll
+C:\Users\Carlos Eduardo\Source\Repos\SIEG-API\Dominio\obj\Debug\net6.0\refint\Dominio.dll
+C:\Users\Carlos Eduardo\Source\Repos\SIEG-API\Dominio\obj\Debug\net6.0\Dominio.pdb
+C:\Users\Carlos Eduardo\Source\Repos\SIEG-API\Dominio\obj\Debug\net6.0\ref\Dominio.dll

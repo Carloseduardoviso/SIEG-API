@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gne1/d43eieIcDpXtDhVp+JI+V/n8yaVl0i9wLUp1ur4ekov1KcEATqA7F8Mg5MJSgJNZpbSeBSt0cAmzejE2A==",
+  "dgSpecHash": "CEFqzg2DcwdWkaSByUe8PH/dpWHw0/UlJdxBEjZ1enr+yCMkyKV1FP/4k9uzgUFkRjYaqTKKZ+w+1HK6aCTThA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Carlos Eduardo\\source\\repos\\SIEG-API\\Adaptadores\\Adaptadores.csproj",
+  "projectFilePath": "C:\\Users\\Carlos Eduardo\\Source\\Repos\\SIEG-API\\Adaptadores\\Adaptadores.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Carlos Eduardo\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Carlos Eduardo\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

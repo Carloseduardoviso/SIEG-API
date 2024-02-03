@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Carlos Eduardo\\source\\repos\\SIEG-API\\Testes\\Testes.csproj": {}
+    "C:\\Users\\Carlos Eduardo\\Source\\Repos\\SIEG-API\\Testes\\Testes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Carlos Eduardo\\source\\repos\\SIEG-API\\Testes\\Testes.csproj": {
+    "C:\\Users\\Carlos Eduardo\\Source\\Repos\\SIEG-API\\Testes\\Testes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Carlos Eduardo\\source\\repos\\SIEG-API\\Testes\\Testes.csproj",
+        "projectUniqueName": "C:\\Users\\Carlos Eduardo\\Source\\Repos\\SIEG-API\\Testes\\Testes.csproj",
         "projectName": "Testes",
-        "projectPath": "C:\\Users\\Carlos Eduardo\\source\\repos\\SIEG-API\\Testes\\Testes.csproj",
+        "projectPath": "C:\\Users\\Carlos Eduardo\\Source\\Repos\\SIEG-API\\Testes\\Testes.csproj",
         "packagesPath": "C:\\Users\\Carlos Eduardo\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Carlos Eduardo\\source\\repos\\SIEG-API\\Testes\\obj\\",
         "projectStyle": "PackageReference",

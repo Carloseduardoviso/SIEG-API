@@ -9,3 +9,14 @@ C:\Users\Carlos Eduardo\source\repos\Adaptadores\Testes\obj\Debug\net6.0\Testes.
 C:\Users\Carlos Eduardo\source\repos\Adaptadores\Testes\obj\Debug\net6.0\refint\Testes.dll
 C:\Users\Carlos Eduardo\source\repos\Adaptadores\Testes\obj\Debug\net6.0\Testes.pdb
 C:\Users\Carlos Eduardo\source\repos\Adaptadores\Testes\obj\Debug\net6.0\ref\Testes.dll
+C:\Users\Carlos Eduardo\Source\Repos\SIEG-API\Testes\bin\Debug\net6.0\Testes.deps.json
+C:\Users\Carlos Eduardo\Source\Repos\SIEG-API\Testes\bin\Debug\net6.0\Testes.dll
+C:\Users\Carlos Eduardo\Source\Repos\SIEG-API\Testes\bin\Debug\net6.0\Testes.pdb
+C:\Users\Carlos Eduardo\Source\Repos\SIEG-API\Testes\obj\Debug\net6.0\Testes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Eduardo\Source\Repos\SIEG-API\Testes\obj\Debug\net6.0\Testes.AssemblyInfoInputs.cache
+C:\Users\Carlos Eduardo\Source\Repos\SIEG-API\Testes\obj\Debug\net6.0\Testes.AssemblyInfo.cs
+C:\Users\Carlos Eduardo\Source\Repos\SIEG-API\Testes\obj\Debug\net6.0\Testes.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Eduardo\Source\Repos\SIEG-API\Testes\obj\Debug\net6.0\Testes.dll
+C:\Users\Carlos Eduardo\Source\Repos\SIEG-API\Testes\obj\Debug\net6.0\refint\Testes.dll
+C:\Users\Carlos Eduardo\Source\Repos\SIEG-API\Testes\obj\Debug\net6.0\Testes.pdb
+C:\Users\Carlos Eduardo\Source\Repos\SIEG-API\Testes\obj\Debug\net6.0\ref\Testes.dll

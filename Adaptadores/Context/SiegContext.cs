@@ -1,5 +1,7 @@
-﻿using Dominio.Entidades.Base;
+﻿using Dominio.Entidades;
+using Dominio.Entidades.Base;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.ChangeTracking;
 
 namespace Adaptadores.Context
 {
@@ -9,7 +11,7 @@ namespace Adaptadores.Context
         {
         }
 
-        //public DbSet<Produto> Produtos {  get; set; } 
+        public DbSet<Produto> Produtos {  get; set; } 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

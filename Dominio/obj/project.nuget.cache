@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aShunvhldoK5o5gZ4q06DuadipuCuxxPqFUZQGp0P3gJ9Gjbmo+e8CIY7IJ34wdN1YOox2P7ceETymCmcTHHPQ==",
+  "dgSpecHash": "Y7mimk9CVcLXQWkzpX+8UpUPVZLlFW855g6+Bj6mBU/TyisHQqWptrJY+mQkQu5jwSmcgl2GDNdcW5tHMygV7Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Carlos Eduardo\\source\\repos\\SIEG-API\\Dominio\\Dominio.csproj",
+  "projectFilePath": "C:\\Users\\Carlos Eduardo\\Source\\Repos\\SIEG-API\\Dominio\\Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Carlos Eduardo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Carlos Eduardo\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",

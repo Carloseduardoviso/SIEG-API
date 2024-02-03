@@ -6,4 +6,15 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+	<ItemGroup>
+		<PackageReference Include="Canducci.Pagination" Version="3.0.0" />
+		<PackageReference Include="Newtonsoft.Json" Version="9.0.1" />
+		<PackageReference Include="prmToolkit.NotificationPattern" Version="1.1.5" />
+		<PackageReference Include="Swashbuckle.AspNetCore.Annotations" Version="6.5.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+    <ProjectReference Include="..\Adaptadores\Adaptadores.csproj" />
+  </ItemGroup>
+
 </Project>
