@@ -1,0 +1,11 @@
+C:\Users\Carlos Eduardo\source\repos\Adaptadores\CrossCutting.IoC\bin\Debug\net6.0\CrossCutting.IoC.deps.json
+C:\Users\Carlos Eduardo\source\repos\Adaptadores\CrossCutting.IoC\bin\Debug\net6.0\CrossCutting.IoC.dll
+C:\Users\Carlos Eduardo\source\repos\Adaptadores\CrossCutting.IoC\bin\Debug\net6.0\CrossCutting.IoC.pdb
+C:\Users\Carlos Eduardo\source\repos\Adaptadores\CrossCutting.IoC\obj\Debug\net6.0\CrossCutting.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Eduardo\source\repos\Adaptadores\CrossCutting.IoC\obj\Debug\net6.0\CrossCutting.IoC.AssemblyInfoInputs.cache
+C:\Users\Carlos Eduardo\source\repos\Adaptadores\CrossCutting.IoC\obj\Debug\net6.0\CrossCutting.IoC.AssemblyInfo.cs
+C:\Users\Carlos Eduardo\source\repos\Adaptadores\CrossCutting.IoC\obj\Debug\net6.0\CrossCutting.IoC.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Eduardo\source\repos\Adaptadores\CrossCutting.IoC\obj\Debug\net6.0\CrossCutting.IoC.dll
+C:\Users\Carlos Eduardo\source\repos\Adaptadores\CrossCutting.IoC\obj\Debug\net6.0\refint\CrossCutting.IoC.dll
+C:\Users\Carlos Eduardo\source\repos\Adaptadores\CrossCutting.IoC\obj\Debug\net6.0\CrossCutting.IoC.pdb
+C:\Users\Carlos Eduardo\source\repos\Adaptadores\CrossCutting.IoC\obj\Debug\net6.0\ref\CrossCutting.IoC.dll

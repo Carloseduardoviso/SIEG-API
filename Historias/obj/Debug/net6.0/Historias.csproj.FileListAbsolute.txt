@@ -1,0 +1,11 @@
+C:\Users\Carlos Eduardo\source\repos\Adaptadores\Historias\bin\Debug\net6.0\Historias.deps.json
+C:\Users\Carlos Eduardo\source\repos\Adaptadores\Historias\bin\Debug\net6.0\Historias.dll
+C:\Users\Carlos Eduardo\source\repos\Adaptadores\Historias\bin\Debug\net6.0\Historias.pdb
+C:\Users\Carlos Eduardo\source\repos\Adaptadores\Historias\obj\Debug\net6.0\Historias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Eduardo\source\repos\Adaptadores\Historias\obj\Debug\net6.0\Historias.AssemblyInfoInputs.cache
+C:\Users\Carlos Eduardo\source\repos\Adaptadores\Historias\obj\Debug\net6.0\Historias.AssemblyInfo.cs
+C:\Users\Carlos Eduardo\source\repos\Adaptadores\Historias\obj\Debug\net6.0\Historias.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Eduardo\source\repos\Adaptadores\Historias\obj\Debug\net6.0\Historias.dll
+C:\Users\Carlos Eduardo\source\repos\Adaptadores\Historias\obj\Debug\net6.0\refint\Historias.dll
+C:\Users\Carlos Eduardo\source\repos\Adaptadores\Historias\obj\Debug\net6.0\Historias.pdb
+C:\Users\Carlos Eduardo\source\repos\Adaptadores\Historias\obj\Debug\net6.0\ref\Historias.dll
