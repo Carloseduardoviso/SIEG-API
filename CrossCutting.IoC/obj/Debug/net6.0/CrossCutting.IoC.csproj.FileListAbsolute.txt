@@ -28,3 +28,4 @@ C:\Users\Carlos Eduardo\Source\Repos\SIEG-API\CrossCutting.IoC\obj\Debug\net6.0\
 C:\Users\Carlos Eduardo\Source\Repos\SIEG-API\CrossCutting.IoC\obj\Debug\net6.0\refint\CrossCutting.IoC.dll
 C:\Users\Carlos Eduardo\Source\Repos\SIEG-API\CrossCutting.IoC\obj\Debug\net6.0\CrossCutting.IoC.pdb
 C:\Users\Carlos Eduardo\Source\Repos\SIEG-API\CrossCutting.IoC\obj\Debug\net6.0\ref\CrossCutting.IoC.dll
+C:\Users\Carlos Eduardo\source\repos\SIEG-API\CrossCutting.IoC\obj\Debug\net6.0\CrossCutting.IoC.sourcelink.json

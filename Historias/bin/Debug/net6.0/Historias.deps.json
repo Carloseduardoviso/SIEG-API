@@ -1391,6 +1391,7 @@
       },
       "Dominio/1.0.0": {
         "dependencies": {
+          "Microsoft.EntityFrameworkCore.Abstractions": "7.0.5",
           "prmToolkit.NotificationPattern": "1.1.5"
         },
         "runtime": {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jdqi218Zl4401nkc4DhD5/Jn6vcRBRWlfJq0GGRVI3EpiS/eJUS0dWUAFgLgUeHdqfD/leI4Yt6m265JHJzEwg==",
+  "dgSpecHash": "EKUUx4Y3OkVpB9Kfs9IFs42IrWaDDjui8xFba98eWyfVItmbJGYU4BxVrjCHElWxSmk+sP+vQJln0r7M6r+DvQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Carlos Eduardo\\Source\\Repos\\SIEG-API\\Testes\\Testes.csproj",
+  "projectFilePath": "C:\\Users\\Carlos Eduardo\\source\\repos\\SIEG-API\\Testes\\Testes.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

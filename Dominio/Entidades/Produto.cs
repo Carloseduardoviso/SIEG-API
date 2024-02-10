@@ -1,5 +1,6 @@
 ﻿using Dominio.Entidades.Base;
 using Dominio.Enumeracoes;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Dominio.Entidades
 {
@@ -17,6 +18,8 @@ namespace Dominio.Entidades
             Status = StatusDoProduto.Ativo;
         }
 
+        [Column("id_produto")]
+        public int IdProduto { get; set; }
         public string? Nome { get; set; }
         public int EstoqueInicial { get; set; }
         public int EstoqueMinimo { get; set; }

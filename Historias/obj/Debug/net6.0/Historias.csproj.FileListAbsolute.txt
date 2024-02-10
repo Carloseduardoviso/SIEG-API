@@ -26,3 +26,4 @@ C:\Users\Carlos Eduardo\Source\Repos\SIEG-API\Historias\bin\Debug\net6.0\Dominio
 C:\Users\Carlos Eduardo\Source\Repos\SIEG-API\Historias\bin\Debug\net6.0\Adaptadores.pdb
 C:\Users\Carlos Eduardo\Source\Repos\SIEG-API\Historias\bin\Debug\net6.0\Dominio.pdb
 C:\Users\Carlos Eduardo\Source\Repos\SIEG-API\Historias\obj\Debug\net6.0\Historias.csproj.CopyComplete
+C:\Users\Carlos Eduardo\source\repos\SIEG-API\Historias\obj\Debug\net6.0\Historias.sourcelink.json

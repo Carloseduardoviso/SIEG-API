@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
 	<PropertyGroup>
 		<TargetFramework>net6.0</TargetFramework>
@@ -7,6 +7,19 @@
 	</PropertyGroup>
 
 	<ItemGroup>
+	  <Compile Remove="Dtos\**" />
+	  <Compile Remove="Migrations\**" />
+	  <Compile Remove="Repositorios\**" />
+	  <EmbeddedResource Remove="Dtos\**" />
+	  <EmbeddedResource Remove="Migrations\**" />
+	  <EmbeddedResource Remove="Repositorios\**" />
+	  <None Remove="Dtos\**" />
+	  <None Remove="Migrations\**" />
+	  <None Remove="Repositorios\**" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Folder Include="Migrations\" />
 		<PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.5" />
 		<PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.5">
 			<PrivateAssets>all</PrivateAssets>
@@ -15,10 +28,6 @@
 		<PackageReference Include="prmToolkit.NotificationPattern" Version="1.1.5" />
 		<PackageReference Include="Refit" Version="7.0.0" />
 		<PackageReference Include="Refit.HttpClientFactory" Version="7.0.0" />
-		<Folder Include="Dtos\" />
-		<Folder Include="Mapping\" />
-		<Folder Include="Migrations\" />
-		<Folder Include="Repositorios\" />
 	</ItemGroup>
 
 	<ItemGroup>

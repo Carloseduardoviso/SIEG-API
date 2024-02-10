@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6dkZKa2sujGTSTjxDHXLUsvCJglAXnQYWkrFF1chu+d51IvVzrgTK3sUnTidCKW0avIOEn0fMHBiZmWX5MwCBQ==",
+  "dgSpecHash": "CCAdlr92wyuqnH5uJQdZKErRY8ndBYS5DlP9w1NKFJFq2YErmq9Mos5PrPmT3LeopxSkM6qrMUDVObShVdIXbQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Carlos Eduardo\\Source\\Repos\\SIEG-API\\CrossCutting.IoC\\CrossCutting.IoC.csproj",
+  "projectFilePath": "C:\\Users\\Carlos Eduardo\\source\\repos\\SIEG-API\\CrossCutting.IoC\\CrossCutting.IoC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Carlos Eduardo\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Carlos Eduardo\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

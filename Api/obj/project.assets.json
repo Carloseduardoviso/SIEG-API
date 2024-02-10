@@ -2756,6 +2756,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "Microsoft.EntityFrameworkCore.Abstractions": "7.0.5",
           "prmToolkit.NotificationPattern": "1.1.5"
         },
         "compile": {
@@ -8729,11 +8730,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Carlos Eduardo\\Source\\Repos\\SIEG-API\\Api\\API.csproj",
+      "projectUniqueName": "C:\\Users\\Carlos Eduardo\\source\\repos\\SIEG-API\\Api\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\Carlos Eduardo\\Source\\Repos\\SIEG-API\\Api\\API.csproj",
+      "projectPath": "C:\\Users\\Carlos Eduardo\\source\\repos\\SIEG-API\\Api\\API.csproj",
       "packagesPath": "C:\\Users\\Carlos Eduardo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Carlos Eduardo\\Source\\Repos\\SIEG-API\\Api\\obj\\",
+      "outputPath": "C:\\Users\\Carlos Eduardo\\source\\repos\\SIEG-API\\Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -8756,11 +8757,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Carlos Eduardo\\Source\\Repos\\SIEG-API\\CrossCutting.IoC\\CrossCutting.IoC.csproj": {
-              "projectPath": "C:\\Users\\Carlos Eduardo\\Source\\Repos\\SIEG-API\\CrossCutting.IoC\\CrossCutting.IoC.csproj"
+            "C:\\Users\\Carlos Eduardo\\source\\repos\\SIEG-API\\CrossCutting.IoC\\CrossCutting.IoC.csproj": {
+              "projectPath": "C:\\Users\\Carlos Eduardo\\source\\repos\\SIEG-API\\CrossCutting.IoC\\CrossCutting.IoC.csproj"
             },
-            "C:\\Users\\Carlos Eduardo\\Source\\Repos\\SIEG-API\\Historias\\Historias.csproj": {
-              "projectPath": "C:\\Users\\Carlos Eduardo\\Source\\Repos\\SIEG-API\\Historias\\Historias.csproj"
+            "C:\\Users\\Carlos Eduardo\\source\\repos\\SIEG-API\\Historias\\Historias.csproj": {
+              "projectPath": "C:\\Users\\Carlos Eduardo\\source\\repos\\SIEG-API\\Historias\\Historias.csproj"
             }
           }
         }
@@ -8837,7 +8838,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

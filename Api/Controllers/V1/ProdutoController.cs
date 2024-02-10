@@ -1,15 +1,24 @@
-﻿using CrossCutting.IoC.Extensions;
+﻿using Adaptadores.Context;
+using CrossCutting.IoC.Extensions;
 using Historias.Produto.Criar;
 using Microsoft.AspNetCore.Mvc;
 using Swashbuckle.AspNetCore.Annotations;
 
 namespace API.Controllers.V1
-{
+{   
     [ApiController]
     [ApiVersion("1.0")]
     [Route("v{version:apiVersion}/[controller]")]
     public class ProdutoController : ControllerBase
     {
+        private readonly SiegContext _context;
+
+        public ProdutoController(SiegContext context)
+        {
+            _context = context;
+        }
+
+
         [HttpPost]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
