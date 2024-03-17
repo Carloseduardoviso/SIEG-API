@@ -25,11 +25,7 @@ namespace Adaptadores.Context
         public DbSet<VendaDeProduto> VendaDeProdutos { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
-        {
-            //base.OnModelCreating(modelBuilder);
-            //modelBuilder.Entity<SiegContext>()
-            //  .HasNoKey();
-
+        { 
             foreach (var property in modelBuilder.Model.GetEntityTypes().SelectMany(t => t.GetProperties()).Where(p => p.ClrType == typeof(string)))
             {
                 property.SetColumnType(ColumnTypeConstantes.varchar250);

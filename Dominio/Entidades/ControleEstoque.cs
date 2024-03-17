@@ -1,5 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Dominio.Entidades
@@ -11,6 +10,6 @@ namespace Dominio.Entidades
         [Required]
         [Column("column1")]
         [StringLength(200)]
-        public string Column1 { get; set; }
+        public string? Column1 { get; set; }
     }
 }

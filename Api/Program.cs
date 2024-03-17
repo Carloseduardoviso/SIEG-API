@@ -2,11 +2,8 @@ using Adaptadores.Context;
 using API;
 using API.Extensions;
 using CrossCutting.IoC.Extensions;
-using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc.ApiExplorer;
-using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Configuration;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -16,8 +13,8 @@ builder.DependencyInjection(builder.Configuration);
 SwaggerConfigurator.ConfigurarSwagger(builder.Services);
 builder.AddApiVersioning();
 
-builder.Services.AddDbContext<SiegContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("SiegContext")));
+//builder.Services.AddDbContext<SiegContext>(options =>
+//    options.UseSqlServer(builder.Configuration.GetConnectionString("SiegContext")));
 
 var app = builder.Build();
 var provider = app.Services.GetRequiredService<IApiVersionDescriptionProvider>();

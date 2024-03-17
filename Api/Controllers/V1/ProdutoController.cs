@@ -26,7 +26,7 @@ namespace API.Controllers.V1
         [SwaggerResponse(200, "Produto criado com sucesso", typeof(int))]
         [SwaggerResponse(400, "Requisição Inválida")]
         [SwaggerResponse(422, type: typeof(ValidationProblemDetails))]
-        public async Task<IActionResult> Criar([FromServices] CriarProduto criarProduto, [FromServices] CriarProdutoDto criarProdutoDto)
+        public async Task<IActionResult> Criar([FromServices] CriarProduto criarProduto, [FromBody] CriarProdutoDto criarProdutoDto)
         {
             if (!ModelState.IsValid)
                 return ValidationProblem(detail: "Falha nos dados inseridos para a criação do produto", title: "Falha na validação", statusCode: 422, modelStateDictionary: ModelState);
